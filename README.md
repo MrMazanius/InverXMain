@@ -5,6 +5,7 @@ This is the Official InverX Github repository. This is an Open Source Game Engin
 ## Installation
 
 Install InverX Game Engine with git
+You can install Git [here](https://github.com/git-for-windows/git/releases/download/v2.40.0.windows.1/Git-2.40.0-64-bit.exe)
 
 ```bash
   git clone https://github.com/MrMazanius/InverXMain.git
