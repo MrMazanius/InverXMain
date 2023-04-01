@@ -8,6 +8,9 @@ Install InverX Game Engine with git
 
 ```bash
   git clone https://github.com/MrMazanius/InverXMain.git
+```
+
+```bash
   cd InverXMain/
 ```
 And there you go! You have the files!
