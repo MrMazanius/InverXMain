@@ -14,5 +14,9 @@ You can install Git [here](https://github.com/git-for-windows/git/releases/downl
 ```bash
   cd InverXMain/
 ```
-And there you go! You have the files!
+And there you go! You have the files and ready to make changes :)
+
+If you have made some noticeable changes to InverX and you want t share them please email: theodorkj@gmail.com
+with the files and describe your changes and then we can talk about publishing it in a new branch or 
+the naster branch.
     
